@@ -2,7 +2,9 @@
     "java.project.sourcePaths": [
         "javafolder2",
         "javafolder",
-        "GuiProgram"
+        "GuiProgram",
+        "StackAndQueue",
+        "BackTracking"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
